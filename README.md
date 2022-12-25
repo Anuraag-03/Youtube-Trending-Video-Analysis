@@ -1,6 +1,6 @@
 # Youtube Trending Video Analysis
 ## Contributors: 
-Anuraag B, Affan Ahmed
+Anuraag B, Affan Ahmed, Dheeraj
 
 ## Description of Project: 
 Create an interactive web application that allows our user to parse and visualize a data set of trending YouTube videos from the United States, Canada, Brazil and Mexico. The aim was to allow a user dig into the data to better understand the data. Questions such as "What video categories are the most watched in the US or Canada or France?", "The relationship between no. of views and interactions (likes, comments etc.)" could be answered using our web app. 
